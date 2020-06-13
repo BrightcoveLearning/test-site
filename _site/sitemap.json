@@ -5,13 +5,13 @@
   },
 
   {
-      "newURL": "https://****.support.brightcove.com/icons.html",
-      "oldURL": "/icons"
+      "newURL": "https://****.support.brightcove.com/support/brightcove-answer.html",
+      "oldURL": "/brightcove-answer"
   },
 
   {
-      "newURL": "https://****.support.brightcove.com/references/",
-      "oldURL": "/index"
+      "newURL": "https://****.support.brightcove.com/icons.html",
+      "oldURL": "/icons"
   },
 
   {
@@ -30,17 +30,22 @@
   },
 
   {
+      "newURL": "https://****.support.brightcove.com/references/",
+      "oldURL": "/index"
+  },
+
+  {
       "newURL": "https://****.support.brightcove.com/index_for_launch.html",
       "oldURL": "/index_for_launch"
   },
 
   {
-      "newURL": "https://****.support.brightcove.com/support/known-issues.html",
+      "newURL": "https://****.support.brightcove.com/references/known-issues.html",
       "oldURL": "/known-issues"
   },
 
   {
-      "newURL": "https://****.support.brightcove.com/references/known-issues.html",
+      "newURL": "https://****.support.brightcove.com/support/known-issues.html",
       "oldURL": "/known-issues"
   },
 
