@@ -10,17 +10,22 @@
   },
 
   {
+      "newURL": "https://****.support.brightcove.com/support/contact-sales.html",
+      "oldURL": "/contact-sales"
+  },
+
+  {
       "newURL": "https://****.support.brightcove.com/icons.html",
       "oldURL": "/icons"
   },
 
   {
-      "newURL": "https://****.support.brightcove.com/getting-started/",
+      "newURL": "https://****.support.brightcove.com/support/",
       "oldURL": "/index"
   },
 
   {
-      "newURL": "https://****.support.brightcove.com/support/",
+      "newURL": "https://****.support.brightcove.com/getting-started/",
       "oldURL": "/index"
   },
 
@@ -40,12 +45,12 @@
   },
 
   {
-      "newURL": "https://****.support.brightcove.com/references/known-issues.html",
+      "newURL": "https://****.support.brightcove.com/support/known-issues.html",
       "oldURL": "/known-issues"
   },
 
   {
-      "newURL": "https://****.support.brightcove.com/support/known-issues.html",
+      "newURL": "https://****.support.brightcove.com/references/known-issues.html",
       "oldURL": "/known-issues"
   },
 
